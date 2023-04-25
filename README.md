@@ -8,7 +8,7 @@ Inputs :
 
 We should create a math expression by operands and operators that equal with goal number.<br />
 
-**Ex** :
+**Example** :
 ```
 input :
   Operands = [1, 2, 3, 4, 5, 6, 7, 8]
